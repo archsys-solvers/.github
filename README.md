@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-transparent.png" width="145" alt="ArchSys Solvers Logo" />
+<img src="assets/logo.svg" width="145" height="145" alt="ArchSys Solvers Logo" />
 
 # ArchSys Solvers
 
