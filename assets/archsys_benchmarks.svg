@@ -13,10 +13,15 @@
   <text x="64" y="275.7" text-anchor="end" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">10</text>
   <line x1="74" y1="214.8" x2="406" y2="214.8" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="64" y="219.3" text-anchor="end" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">15</text>
+  <line x1="96.0" y1="162" x2="96.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="96.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">16K</text>
+  <line x1="168.0" y1="162" x2="168.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="168.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">64K</text>
+  <line x1="240.0" y1="162" x2="240.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="240.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">256K</text>
+  <line x1="312.0" y1="162" x2="312.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="312.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">1M</text>
+  <line x1="384.0" y1="162" x2="384.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="384.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">4M</text>
   <text x="240.0" y="431" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13.5" font-weight="500" fill="#0f172a">Grid Size (Cells)</text>
   <text x="28" y="274.0" text-anchor="middle" transform="rotate(-90 28 274.0)" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13.5" font-weight="500" fill="#0f172a">Speedup (x)</text>
@@ -56,10 +61,15 @@
   <text x="452" y="237.6" text-anchor="end" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">12</text>
   <line x1="462" y1="182.9" x2="794" y2="182.9" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="452" y="187.4" text-anchor="end" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">16</text>
+  <line x1="484.0" y1="162" x2="484.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="484.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">16K</text>
+  <line x1="556.0" y1="162" x2="556.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="556.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">64K</text>
+  <line x1="628.0" y1="162" x2="628.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="628.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">256K</text>
+  <line x1="700.0" y1="162" x2="700.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="700.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">1M</text>
+  <line x1="772.0" y1="162" x2="772.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="772.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">4M</text>
   <text x="628.0" y="431" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13.5" font-weight="500" fill="#0f172a">Grid Size (Cells)</text>
   <text x="416" y="274.0" text-anchor="middle" transform="rotate(-90 416 274.0)" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13.5" font-weight="500" fill="#0f172a">Speedup (x)</text>
@@ -101,10 +111,15 @@
   <text x="840" y="213.7" text-anchor="end" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">1.7</text>
   <line x1="850" y1="168.1" x2="1182" y2="168.1" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="840" y="172.6" text-anchor="end" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">1.9</text>
+  <line x1="872.0" y1="162" x2="872.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="872.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">16K</text>
+  <line x1="944.0" y1="162" x2="944.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="944.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">64K</text>
+  <line x1="1016.0" y1="162" x2="1016.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="1016.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">256K</text>
+  <line x1="1088.0" y1="162" x2="1088.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="1088.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">1M</text>
+  <line x1="1160.0" y1="162" x2="1160.0" y2="388" stroke="#64748b" stroke-opacity="0.34" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="1160.0" y="410" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13" font-weight="500" fill="#1e293b">4M</text>
   <text x="1016.0" y="431" text-anchor="middle" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13.5" font-weight="500" fill="#0f172a">Grid Size (Cells)</text>
   <text x="804" y="274.0" text-anchor="middle" transform="rotate(-90 804 274.0)" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="13.5" font-weight="500" fill="#0f172a">Speedup (x)</text>
@@ -133,17 +148,17 @@
   <circle cx="1088.0" cy="186.6" r="5.0" fill="#6d59a8"/>
   <circle cx="1160.0" cy="194.8" r="5.0" fill="#6d59a8"/>
   <rect x="130.0" y="444" width="940" height="38" rx="5" fill="#fafbfc" stroke="#475569" stroke-opacity="0.55" stroke-width="1.3" stroke-dasharray="5,4"/>
-  <line x1="189.0" y1="463.0" x2="225.0" y2="463.0" stroke="#6d59a8" stroke-width="3.0" stroke-linecap="round"/>
-  <circle cx="207.0" cy="463.0" r="5.0" fill="#6d59a8"/>
-  <text x="235.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">xeon-clang-avx512</text>
-  <line x1="421.0" y1="463.0" x2="457.0" y2="463.0" stroke="#2e5fa1" stroke-width="3.0" stroke-linecap="round"/>
-  <circle cx="439.0" cy="463.0" r="5.0" fill="#2e5fa1"/>
-  <text x="467.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">xeon-gcc-avx512</text>
-  <line x1="641.0" y1="463.0" x2="677.0" y2="463.0" stroke="#d96b27" stroke-width="3.0" stroke-linecap="round" stroke-dasharray="6,4"/>
-  <circle cx="659.0" cy="463.0" r="5.0" fill="#d96b27"/>
-  <text x="687.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">xeon-gcc-sse4.2</text>
-  <line x1="853.0" y1="463.0" x2="889.0" y2="463.0" stroke="#1f95b0" stroke-width="3.0" stroke-linecap="round" stroke-dasharray="6,4"/>
-  <circle cx="871.0" cy="463.0" r="5.0" fill="#1f95b0"/>
-  <text x="899.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">apple-m1-neon</text>
+  <line x1="172.0" y1="463.0" x2="208.0" y2="463.0" stroke="#6d59a8" stroke-width="3.0" stroke-linecap="round"/>
+  <circle cx="190.0" cy="463.0" r="5.0" fill="#6d59a8"/>
+  <text x="218.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">xeon-clang-avx512</text>
+  <line x1="416.0" y1="463.0" x2="452.0" y2="463.0" stroke="#2e5fa1" stroke-width="3.0" stroke-linecap="round"/>
+  <circle cx="434.0" cy="463.0" r="5.0" fill="#2e5fa1"/>
+  <text x="462.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">xeon-gcc-avx512</text>
+  <line x1="646.0" y1="463.0" x2="682.0" y2="463.0" stroke="#d96b27" stroke-width="3.0" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <circle cx="664.0" cy="463.0" r="5.0" fill="#d96b27"/>
+  <text x="692.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">xeon-gcc-sse4.2</text>
+  <line x1="868.0" y1="463.0" x2="904.0" y2="463.0" stroke="#1f95b0" stroke-width="3.0" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <circle cx="886.0" cy="463.0" r="5.0" fill="#1f95b0"/>
+  <text x="914.0" y="468.0" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="14" font-weight="500" fill="#0f172a">apple-m1-neon</text>
   <text x="36" y="528" font-family='"DejaVu Sans", "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif' font-size="21" font-weight="500" fill="#0f172a">Peak empirical performance: Xeon Clang AVX-512, 17.9x stencil speedup &amp; 16.1x eDSL fusion</text>
 </svg>
