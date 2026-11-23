@@ -1,13 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <defs>
-    <radialGradient id="bg" cx="50%" cy="50%" r="68%">
-      <stop offset="0%" stop-color="#162544"/>
-      <stop offset="100%" stop-color="#090f1d"/>
-    </radialGradient>
-  </defs>
-  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
-  <rect x="4" y="4" width="504" height="504" rx="108" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2.5"/>
-  <g transform="translate(20.5, 20.5) scale(0.92)" stroke="#080d19" stroke-width="0.62" stroke-linejoin="round" stroke-opacity="0.70">
+  <g stroke="#080d19" stroke-width="0.62" stroke-linejoin="round" stroke-opacity="0.70">
     <polygon points="249.0,322.4 252.5,328.3 251.7,327.6 249.1,322.3" fill="#785a1d"/>
     <polygon points="252.5,328.3 255.9,333.8 254.3,332.5 251.7,327.6" fill="#784a19"/>
     <polygon points="255.9,333.8 259.3,338.9 256.9,337.1 254.3,332.5" fill="#794017"/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/archsys-solvers/.github/main/assets/logo.svg" width="145" height="145" alt="ArchSys Solvers Logo" />
+<img src="https://raw.githubusercontent.com/archsys-solvers/.github/main/assets/logo.svg" width="195" height="195" alt="ArchSys Solvers Logo" />
 
 # ArchSys Solvers
 
