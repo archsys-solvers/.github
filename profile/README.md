@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/archsys-solvers/.github/main/assets/logo.svg" width="88" height="88" alt="ArchSys Solvers Logo" />
+
 # ArchSys Solvers
 
 **Computer Architecture Systems & High-Performance Scientific Computing**

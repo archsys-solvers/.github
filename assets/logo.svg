@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b4965"/>
+      <stop offset="100%" stop-color="#0b1d2c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Rounded Squircle -->
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <rect x="3" y="3" width="122" height="122" rx="25" fill="none" stroke="#62b6cb" stroke-opacity="0.22" stroke-width="2"/>
+
+  <!-- Subtle Silicon Die Pins (Top, Bottom, Left, Right) -->
+  <g fill="#62b6cb" opacity="0.45">
+    <!-- Top pins -->
+    <rect x="35" y="10" width="6" height="8" rx="2"/>
+    <rect x="61" y="10" width="6" height="8" rx="2"/>
+    <rect x="87" y="10" width="6" height="8" rx="2"/>
+    <!-- Bottom pins -->
+    <rect x="35" y="110" width="6" height="8" rx="2"/>
+    <rect x="61" y="110" width="6" height="8" rx="2"/>
+    <rect x="87" y="110" width="6" height="8" rx="2"/>
+    <!-- Left pins -->
+    <rect x="10" y="35" width="8" height="6" rx="2"/>
+    <rect x="10" y="61" width="8" height="6" rx="2"/>
+    <rect x="10" y="87" width="8" height="6" rx="2"/>
+    <!-- Right pins -->
+    <rect x="110" y="35" width="8" height="6" rx="2"/>
+    <rect x="110" y="61" width="8" height="6" rx="2"/>
+    <rect x="110" y="87" width="8" height="6" rx="2"/>
+  </g>
+
+  <!-- Corner Cache Tile Nodes (3x3 Grid Corners) -->
+  <g fill="#62b6cb" opacity="0.25">
+    <rect x="26" y="26" width="22" height="22" rx="5"/>
+    <rect x="80" y="26" width="22" height="22" rx="5"/>
+    <rect x="26" y="80" width="22" height="22" rx="5"/>
+    <rect x="80" y="80" width="22" height="22" rx="5"/>
+  </g>
+
+  <!-- Orthogonal SIMD / Stencil Neighbors -->
+  <g fill="url(#cyan)">
+    <rect x="53" y="24" width="22" height="24" rx="5"/>
+    <rect x="24" y="53" width="24" height="22" rx="5"/>
+    <rect x="80" y="53" width="24" height="22" rx="5"/>
+    <rect x="53" y="80" width="22" height="24" rx="5"/>
+  </g>
+
+  <!-- Central Active Compute Core -->
+  <rect x="51" y="51" width="26" height="26" rx="6" fill="url(#gold)"/>
+  <rect x="58" y="58" width="12" height="12" rx="3" fill="#ffffff" opacity="0.35"/>
+</svg>
