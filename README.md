@@ -47,6 +47,16 @@ As microprocessors encounter the physical constraints of the **Memory Wall** and
 
 ---
 
+### Empirical Performance Highlights
+
+<div align="center">
+  <a href="https://archsys-solvers.github.io/data-oriented-solver/">
+    <img src="assets/archsys_benchmarks.svg" alt="ArchSys Solvers Multi-Architecture Benchmark Overview" width="100%" />
+  </a>
+</div>
+
+---
+
 ### Architecture Landscape & Hardware Validation
 
 All computational kernels and solver implementations are empirically benchmarked across diverse hardware platforms:
