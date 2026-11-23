@@ -64,7 +64,7 @@ All computational kernels and solver implementations are empirically benchmarked
 ### Repositories & Initiatives
 
 * [**data-oriented-solver**](https://github.com/archsys-solvers/data-oriented-solver): High-performance C++17 scientific computing engine evaluating Data-Oriented Design (AoS vs. SoA vs. AoSoA), CPU cache efficiency, AVX-512 / NEON vectorization, and expression template loop fusion.
-  * [Interactive Documentation & Benchmarks](https://ahmedez-zouine.github.io/data-oriented-solver/)
+  * [Interactive Documentation & Benchmarks](https://archsys-solvers.github.io/data-oriented-solver/)
 * **Hardware Probing & Telemetry:** Native C++ microarchitectural probe libraries extracting CPU topology, cache line sizes, and vector execution capabilities across Linux, macOS, and BSD systems.
 * **Future Computational Solvers:** Generalizing data-oriented stencil frameworks and high-order iterative solvers for scientific computing.
 
