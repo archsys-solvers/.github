@@ -71,7 +71,7 @@ All computational kernels and solver implementations are empirically benchmarked
 ---
 
 <div align="center">
-  <sub>Founded & Maintained by <a href="https://github.com/ahmedez-zouine">Ahmed EZ-ZOUINE</a> &bull; Rabat, Morocco</sub>
+  <sub>Founded & Maintained by <a href="https://github.com/ahmedez-zouine">Ahmed EZ-ZOUINE</a></sub>
   <br>
   <sub>Academic & Scientific Inquiries: <code>ahmed.ezzouine@um5r.ac.ma</code></sub>
 </div>
