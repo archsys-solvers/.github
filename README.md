@@ -6,7 +6,7 @@
 
 **Computer Architecture Systems & High-Performance Scientific Computing**
 
-[![C++](https://img.shields.io/badge/Language-C%2B%2B17%20%2F%20C%2B%2B20-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+[![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Assembly%20%7C%20Python-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![HPC](https://img.shields.io/badge/Field-High--Performance%20Computing-orange)](#)
 [![Architectures](https://img.shields.io/badge/Architectures-x86--64%20%7C%20ARM64%20%7C%20RISC--V-0969da)](#)
 [![Vectorization](https://img.shields.io/badge/SIMD-AVX--512%20%7C%20AVX2%20%7C%20NEON%20%7C%20RVV-7a3e9d)](#)
